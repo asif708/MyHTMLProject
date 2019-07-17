@@ -1,7 +1,7 @@
 <HTML>
 <HEAD> Welcome to Git...!!! </HEAD>
 <Body bgcolor="blue"> Git is to do Version Controlling 
-	
+	Git is Distributed VC
 
 </Body>
 
